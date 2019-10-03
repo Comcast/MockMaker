@@ -1,0 +1,19 @@
+site_name: /mock/maker
+pages:
+  - Home: index.md
+  - Simple Mock Endpoint Examples: simple_mock_endpoint_examples.md
+  - HTTP Status Code Endpoint Examples: http_status_code_endpoint_examples.md
+  - Delay Endpoint Examples: delay_endpoint_examples.md
+  - Management Endpoints: management_endpoints.md
+  - How to run MockMaker: how_to_run_mock_maker.md
+theme:
+  name: material
+  logo: ./images/clear.png
+  palette:
+    primary: Indigo
+    accent : Indigo
+  feature:
+    tabs: true
+use_directory_urls: true
+copyright: Comcast VIPER
+site_description: MockMaker Documentation

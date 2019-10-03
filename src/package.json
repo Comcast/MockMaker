@@ -1,0 +1,13 @@
+{
+  "name": "mock-maker",
+  "version": "0.1.0",
+  "author": "Christopher Brown",
+  "main": "mock-maker.js",
+  "scripts": {
+    "start": "node mock-maker.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "minimist": "^1.2.0"
+  }
+}
