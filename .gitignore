@@ -1,2 +1,3 @@
 site/
 /*.tgz
+.vscode/settings.json
