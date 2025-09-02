@@ -1,5 +1,5 @@
 site_name: /mock/maker
-pages:
+nav:
   - Home: index.md
   - Simple Mock Endpoint Examples: simple_mock_endpoint_examples.md
   - HTTP Status Code Endpoint Examples: http_status_code_endpoint_examples.md
@@ -7,7 +7,7 @@ pages:
   - Management Endpoints: management_endpoints.md
   - How to run MockMaker: how_to_run_mock_maker.md
 theme:
-  name: material
+  name: mkdocs
   logo: ./images/clear.png
   palette:
     primary: Indigo
